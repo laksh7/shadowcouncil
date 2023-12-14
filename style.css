@@ -2,9 +2,16 @@
 body, h1, p {
     margin: 0;
     padding: 0;
-    font-family: 'Courier New', monospace;
+}
+/* Apply the font to all elements */
+body {
+    font-family: 'Press Start 2P', cursive;
 }
 
+/* Apply the font to specific elements */
+h1, h2, h3 {
+    font-family: 'Press Start 2P', cursive;
+}
 body {
     background-color: black;
     color: white;
