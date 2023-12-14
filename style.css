@@ -1,0 +1,31 @@
+/* Resetting default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', monospace;
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+}
+
+header, main, footer {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+p {
+    line-height: 1.6;
+}
