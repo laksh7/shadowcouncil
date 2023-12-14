@@ -6,15 +6,17 @@ body, h1, p {
 /* Apply the font to all elements */
 body {
     font-family: 'Press Start 2P', cursive;
+    color: green;
 }
 
 /* Apply the font to specific elements */
 h1, h2, h3 {
     font-family: 'Press Start 2P', cursive;
+    color: green;
 }
 body {
     background-color: black;
-    color: white;
+    color: green;
     font-size: 16px;
 }
 
@@ -35,6 +37,7 @@ h1 {
 
 p {
     line-height: 1.6;
+    color: green;
 }
 .press-start {
     font-family: 'Press Start 2P', cursive;
